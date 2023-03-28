@@ -8,4 +8,4 @@
 
 ### <u> Data Sources: </u>
 
-  The dataset that we are going to use for this is the RSNA Breast Cancer detection from Kaggle. This data comprises tabular as well as image data. It contains metadata of about 65k patients and around 260k+ mammograms in the DICOM format.
+  The dataset that we are going to use for this is the RSNA Breast Cancer detection from Kaggle. This data comprises tabular as well as image data. It contains metadata of about 12k patients and around 54k+ mammograms in the DICOM format.
